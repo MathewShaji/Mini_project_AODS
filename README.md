@@ -1,4 +1,4 @@
-# AODS 
+# AODS (Automated Overtaking Detection System)
 Log.py      - This is the main function to be run, it has the login page gui.
 
 Login.py    - This is the program that creates the list of violators with their id, register number and vehicle image.
